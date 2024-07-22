@@ -1,2 +1,2 @@
-# Mijavitz.github.io
-Repositorio de cv de Mijail
+# gitPrueba
+Repositorio de Pruebas
